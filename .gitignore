@@ -1,0 +1,19 @@
+# Raw WESAD biometric data (large and redistributable only under its own terms)
+data/WESAD/
+
+# Generated experiment outputs and local runtime state
+results/
+results_wesad/
+work/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
