@@ -1,6 +1,6 @@
 # Wearable-Based Stress Monitoring with Personal Baselines
 
-CSBP 499 Affective Computing, semester project (topic 14).
+CSBP 499 Affective Computing, semester project.
 
 **Research question.** Can a wrist wearable tell, for a person it has never seen
 before, whether their body is in a stress-like state, and does a short, label-free
